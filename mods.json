@@ -5,7 +5,7 @@
           "id": "e4steam",                                                                                        
           "name": "E4Steam",                                                                                      
           "description": "Играйте в Minecraft с друзьями через Steam — без проброса портов.",                             
-          "author": "CapyDev",                                                                                    
+          "author": "Kamilchik",                                                                                    
           "icon": "icons/e4steam.png",                                                                            
           "loaders": ["fabric", "quilt"],                                                                         
           "files": [                                                                                              
