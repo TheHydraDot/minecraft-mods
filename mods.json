@@ -1,0 +1,22 @@
+    {                                                                                                             
+      "name": "Capybara Mods Hub",                                                                                
+      "mods": [                                                                                                   
+        {                                                                                                         
+          "id": "e4steam",                                                                                        
+          "name": "E4Steam",                                                                                      
+          "description": "Играйте в Minecraft с друзьями через Steam — без проброса портов.",                             
+          "author": "CapyDev",                                                                                    
+          "icon": "icons/e4steam.png",                                                                            
+          "loaders": ["fabric", "quilt"],                                                                         
+          "files": [                                                                                              
+            {                                                                                                     
+              "file": "e4steam-fabric-quilt-mc1.19-1.21.11-v0.3.2.jar",                                           
+              "doc": "e4steam-fabric-quilt-mc1.19-1.21.11-v0.3.2.md",                                             
+              "version": "0.3.2",                                                                                 
+              "mc_version": "1.19.x-1.21.11",                                                                     
+              "loaders": ["fabric", "quilt"]                                                                      
+            }                                                                                                     
+          ]                                                                                                       
+        }                                                                                                         
+      ]                                                                                                           
+    }
